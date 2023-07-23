@@ -1,2 +1,4 @@
 [datalad "dataset"]
 	id = cde07100-2efb-4826-9401-d811de6fd6b9
+[remote "origin"]
+	annex-ignore = true
